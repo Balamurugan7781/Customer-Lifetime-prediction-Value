@@ -193,10 +193,8 @@ This makes the project look mature.
 
 ## Results
 
-ROC Curve for Gradient Boosting Machine Model (GBM)
 <img width="574" height="421" alt="image" src="https://github.com/user-attachments/assets/d594698c-a6cb-42bd-9863-d981e51bc7ca" />
 
-PR curve for Gradient Boosting Machine Model (GBM)
 <img width="572" height="370" alt="image" src="https://github.com/user-attachments/assets/ba679e62-c788-4548-aed0-a21477672cd7" />
 
 
